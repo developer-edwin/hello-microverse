@@ -2,3 +2,4 @@
 .stylelintrc.json
 test.md
 .DS_Store
+node_modules/
